@@ -11,5 +11,13 @@ tum ai gaya hau - rafi
 chandan si badan -mukesh
 abhi mujhme kahi - sonu
 tum ai gaya hau -kishore
+<<<<<<< HEAD
 mera jeefan kishore
 o basaniti pavan pagal nah jai nai jai
+=======
+pucho ni kasa maina reain bitai -man na dey
+na tum hama jano nah hum tum hai - hemant kumar
+kehdo ki tumhai pyar kara nai kara - kumar sonu
+dil hai ki manta nahi - kumar sanu
+ab mujhe raat din tera hi khayal hai - sonu
+>>>>>>> 6f9716b (added more song by parvez-python)
